@@ -1,4 +1,4 @@
-# Dimensionality-Reduction
+# Dimensionality Reduction
 This repository provides _PCA_ and _T-SNE_ algorithms performance comparison on _MNIST_ dataset
 
 # Navigation
